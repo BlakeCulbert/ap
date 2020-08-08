@@ -7,8 +7,8 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Blake Culbert
-  desc: PogChamp
-  email: ksub0912@gmail.com
+  desc: Senior Computer Science Student @ Concordia University - Nebraska
+  email: blake.culbert@cune.org
   selfie: assets/img/profile.jpg
 
 # social
@@ -19,11 +19,11 @@ social:
   dribbble:
   facebook: Test
   flickr:
-  github: kssim
+  github: BlakeCulbert
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/blake-culbert-3887b6194/ 
   pinterest:
   reddit:
   soundcloud:
