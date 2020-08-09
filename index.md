@@ -3,13 +3,11 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+Self-motivated student athlete with a junior standing in Computer Science and a minor in Mathematics. Able to display leadership in the workplace, quickly learn and pick up new information, and work efficiently with a team. Able to contribute problem solving and organizational skills at a high level.
 
 <br/>
 
-# Career
+# Skills
 * Second Company (2012/01 ~ )
   * Web Application Firewall
     * Developed TCP network acceleration module.
